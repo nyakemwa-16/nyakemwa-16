@@ -88,7 +88,7 @@ Here are some of the projects I will be building and sharing on GitHub:
 
 ## 📫 Contact
 
-📧 Email: yourprofessionalemail@gmail.com
+📧 Email: isaiahnyakemwa@gmail.com
 
 📍 Kenya
 
