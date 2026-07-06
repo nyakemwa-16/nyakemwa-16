@@ -1,8 +1,7 @@
 # Hi, I'm Isaiah Nyakemwa 👋
 
 ## 👨‍💻 About Me
-
-I am an Information Technology graduate from Kenya with a passion for solving real-world problems using technology. My interests span software development, networking, Linux, cybersecurity, and automation.
+Bachelor of Science in Information Technology student at Karatina University, expected to graduate in October 2026.. My interests span software development, networking, Linux, cybersecurity, and automation.
 
 I enjoy learning new technologies, building practical projects, and continuously improving my technical skills. My goal is to become a versatile IT professional capable of designing, developing, and securing modern technology solutions.
 
